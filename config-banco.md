@@ -18,11 +18,8 @@ O arquivo **`oxyspaces_estrutura.sql`** está disponível no **GitHub**:
 
 - **Organização:** `oxyspaces-ads`  
 - **Repositório:** `oxyspaces-backend`  
-- **Caminho do arquivo:** raiz do repositório ou `/database/`  
 
 🔗 Link direto: [https://github.com/oxyspaces-ads/oxyspaces-backend](https://github.com/oxyspaces-ads/oxyspaces-backend)
-
-> 💡 **Dica:** É melhor deixar o repositório **público**, assim todos os alunos conseguem acessar sem pedir permissão.
 
 ---
 
